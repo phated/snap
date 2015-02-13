@@ -1,6 +1,7 @@
 {
-  "name": "Snap.js",
-  "version": "2.0.0-rc1",
+  "name": "snap",
+  "version": "2.0.0",
+  "main": "dist/latest/snap.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/jakiestfu/Snap.js.git"

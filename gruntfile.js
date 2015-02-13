@@ -64,6 +64,9 @@ module.exports = function(grunt) {
         },
 
         jshint: {
+            options: {
+                jshintrc: '.jshintrc'
+            },
             all: ['dist/latest/snap.js']
         },
 
